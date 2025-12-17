@@ -30,7 +30,7 @@ If you'd like to test the activity yourself:
 
 ## Gameplay Demonstration
 
-For readers who prefer to observe the activity without running the world locally, a demonstration video showcasing the gameplay is also available.
+For readers who prefer to observe the activity without running the world locally, a demonstration video showcasing the gameplay is also available [here](https://youtu.be/mpICfll2r10).
 
 ## Contact
 
